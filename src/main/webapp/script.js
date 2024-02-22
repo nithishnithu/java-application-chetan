@@ -1,5 +1,6 @@
 var studentReports = {};
 
+
 function addTask() {
     var taskInput = document.querySelector('#task-input');
     var taskText = taskInput.value.trim();
